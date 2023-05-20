@@ -1,4 +1,4 @@
-# git-digital-courses
+# Digital Course: Git
 
 ## Gravando mudanças no repositório
 
